@@ -1,7 +1,7 @@
 ﻿
 namespace MHW_DR_Calc
 {
-    partial class Form1
+    partial class MainWindow
     {
         /// <summary>
         ///  Required designer variable.
